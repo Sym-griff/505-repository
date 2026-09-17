@@ -1,6 +1,7 @@
 
 
 # create empty list 
+#first change in program 
 numbers = []
 
 #Loop 10 times to get 10 numbers from user
